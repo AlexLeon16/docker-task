@@ -16,5 +16,5 @@
 ```bash```
 docker-compose up
 
-##Итог:
+## Итог:
 <img width="1072" height="583" alt="Снимок экрана 2026-03-24 230949" src="https://github.com/user-attachments/assets/432111b6-0d46-41fe-9457-699bd99c2127" />
